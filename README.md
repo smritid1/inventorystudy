@@ -158,15 +158,6 @@ This project focuses on performing an **inventory analysis** for a fictional com
 
 ---
 
-## Dashboard Features
-- Revenue & Profit by Category
-- Inventory Turnover Analysis
-- ABC Classification Visualization
-- Country-wise Order Distribution
-- Year-over-Year Product Performance
-
----
-
 ## Key Takeaways
 - High turnover ≠ high revenue → stock matters
 - Small group of products drives majority of revenue
