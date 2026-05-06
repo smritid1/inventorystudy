@@ -1,10 +1,9 @@
 ## Project Overview
-This project focuses on performing an **inventory analysis** for a fictional company, **Acropolis Retail Limited**, using Tableau. The goal is to derive actionable insights to improve inventory control, optimize stock levels, and increase profitability.
+This project focuses on performing an **inventory analysis** for a fictional company, **Acropolis Retail Limited**, using Tableau. The goal is to derive actionable insights to improve inventory control, optimize stock levels, and increase profitability. The dataset spans **2020–2022** 
 
-The dataset spans **2020–2022** 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze inventory performance
 - Identify high-performing and low-performing products
 - Improve stock management decisions
@@ -12,14 +11,14 @@ The dataset spans **2020–2022**
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 - Cleaned dataset (removed duplicates, fixed inconsistencies)
 - Verified data structure and relationships
 - Ensured correct level of detail for analysis
 
 ---
 
-## 📊 Key Metrics Used
+## Key Metrics Used
 - Revenue
 - Cost of Goods Sold (COGS)
 - Gross Profit
@@ -29,16 +28,16 @@ The dataset spans **2020–2022**
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
-### 📦 General Insights
+### General Insights
 - Total distinct items sold: **104**
 - The country with the highest number of orders: **United Kingdom (1780 orders)**
 - Dataset contains **5 categories**
 
 ---
 
-### 💰 Profit & Revenue Insights
+### Profit & Revenue Insights
 - Most profitable category in **2020**: **Home Accessories**
   - Profit: **$110,000**
 - Third most profitable category in 2020: **Toys & Edibles**
@@ -46,7 +45,7 @@ The dataset spans **2020–2022**
 
 ---
 
-### 📈 Product Performance
+### Product Performance
 - **"Grow a Flytrap or Sunflower in Tin"**
   - Most sold item in 2021
   - Accounted for **10.85% of total stock**
@@ -68,7 +67,7 @@ The dataset spans **2020–2022**
 
 ---
 
-### 🔄 Inventory Turnover Insights
+### Inventory Turnover Insights
 - Highest turnover category in 2021: **Office & School**
 - However:
   - Ranked only **4th in revenue**
@@ -79,7 +78,7 @@ The dataset spans **2020–2022**
 
 ---
 
-### 📊 ABC Analysis Insights
+### BC Analysis Insights
 - Classification thresholds:
   - A: Top 70% revenue
   - B: Next 20%
@@ -97,7 +96,7 @@ The dataset spans **2020–2022**
 
 ---
 
-### 📉 Stock & Sales Observations
+### Stock & Sales Observations
 - Some high-turnover items had **low stock**
   - Indicates **missed sales opportunities**
 - Some categories:
@@ -105,16 +104,16 @@ The dataset spans **2020–2022**
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
-### 🛒 Inventory Optimization
+### Inventory Optimization
 - Increase stock for:
   - High turnover items (e.g., Doughnut Lip Gloss)
   - High-demand but understocked products
 
 ---
 
-### 📈 Product Strategy
+### Product Strategy
 - Invest more in:
   - **Class A items** (high revenue contributors)
 - Re-evaluate:
@@ -122,7 +121,7 @@ The dataset spans **2020–2022**
 
 ---
 
-### ⚖️ Category Management
+### Category Management
 - Improve performance of:
   - Office & School
   - Jewelry
@@ -131,35 +130,35 @@ The dataset spans **2020–2022**
 
 ---
 
-### 🌍 Market Strategy
+### Market Strategy
 - Focus on **United Kingdom market**
   - Highest order volume
   - Higher proportion of high-value purchases
 
 ---
 
-### 📦 Stock Planning
+### Stock Planning
 - Increase stock for **Class B items**
   - They have similar turnover rates to Class A
   - Opportunity to convert them into A-class
 
 ---
 
-### 📉 Cost Efficiency
+### Cost Efficiency
 - Prioritize products with:
   - **Low COGS-to-revenue ratio**
   - Higher profit margins
 
 ---
 
-### 🚀 Growth Opportunities
+### Growth Opportunities
 - Expand inventory for:
   - Fast-selling products
   - Products with rising demand trends
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 - Revenue & Profit by Category
 - Inventory Turnover Analysis
 - ABC Classification Visualization
@@ -168,7 +167,7 @@ The dataset spans **2020–2022**
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 - High turnover ≠ high revenue → stock matters
 - Small group of products drives majority of revenue
 - Inventory mismanagement leads to lost sales opportunities
